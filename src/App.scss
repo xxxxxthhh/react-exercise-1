@@ -7,3 +7,78 @@
   width: 960px;
   background-color: $white;
 }
+
+.app{
+  padding-top: 80px;
+}
+
+.app img{
+  width: 10%;
+  border-radius: 50%;
+  position: absolute;
+  //margin: 0 auto;
+  top: 5px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.profile1, .profile2{
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.title{
+  font-size: 24px;
+}
+
+.content{
+  font-size: 20px;
+}
+
+.app hr{
+  height: 2px;
+  background-color: #ededed;
+  border-color: #ededed;
+}
+
+.app h3{
+  color: #ec7873;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.app section{
+  margin: auto 20px;
+}
+
+.aboutMe{
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.app section table{
+  font-size:16px;
+  margin-top: 20px;
+  width: 95%;
+}
+
+.app section table td{
+  padding-bottom: 20px;
+}
+
+.year{
+  width: 10%;
+  vertical-align: top;
+}
+
+.eduContent{
+  font-size: 12px;
+}
+.eduContent div{
+  background-color: #ededed;
+  padding: 10px;
+}
+.eduContent p{
+  margin-bottom: 10px;
+}
